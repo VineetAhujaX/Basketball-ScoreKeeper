@@ -1,0 +1,2 @@
+rootProject.name='Basketball Score Keeper'
+include ':app'
